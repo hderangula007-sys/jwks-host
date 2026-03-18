@@ -3,7 +3,7 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "kid": "my-key-1",
+      "kid": "key-2026",
       "alg": "RS256",
       "n": "nd2-aqHZSPzCLjQctJOSz6llmKXTAm2syUd_ArEv_MbrjdtJYMITuM3m6w5rlCmB5vPtLsQZFbJhrwXKwVJQMcHDyDIta08pTHvViVeWGjVxtvz4IN0KcuPgTGaTn2crIuXHV4U5HE5npsWM4rkP-SjrshzGVtDb06UYrww23MTuQXgjLDAlSTH0LLziwhfvcsZ-5z_3Hdd1tEnaHtQtKy6XzvvrqvWBxFeZBuSPlAWNDdlFdUpP4yGK6QRoTTw3ZZH1YcH18NENksV5_Xu--db6X6dgpXjVtsC-Wua_349M6lzcoi7Cw7o6MeMDjlxUOvrb-7lmUWuIrzSpR_aRCw",
       "e": "AQAB"
