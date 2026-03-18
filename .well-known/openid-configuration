@@ -1,0 +1,9 @@
+{
+  "issuer": "https://hderangula007-sys.github.io/jwks-host",
+  "jwks_uri": "https://hderangula007-sys.github.io/jwks-host/.well-known/jwks.json",
+  "authorization_endpoint": "https://hderangula007-sys.github.io/jwks-host/authorize",
+  "token_endpoint": "https://hderangula007-sys.github.io/jwks-host/token",
+  "subject_types_supported": ["public"],
+  "id_token_signing_alg_values_supported": ["RS256"],
+  "response_types_supported": ["code", "token", "id_token"]
+}
